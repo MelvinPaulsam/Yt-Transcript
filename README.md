@@ -4,15 +4,15 @@
 ## 2. Create a Python environment
 Python 3.6 or higher using venv or conda. Using venv:
 
-`cd langchain-experiments
-python3 -m venv env
-source env/bin/activate`
+`cd langchain-experiments`<br>
+`python3 -m venv env`<br>
+`source env/bin/activate`<br>
 
 Using conda:
 
-`cd langchain-experiments
-conda create -n langchain-env python=3.8
-conda activate langchain-env`
+`cd langchain-experiments`<br>
+`conda create -n langchain-env python=3.8`<br>
+`conda activate langchain-env`<br>
 ## 3. Install the required dependencies
 `pip install -r requirements.txt`
 ## 4. Set up the keys in a .env file
