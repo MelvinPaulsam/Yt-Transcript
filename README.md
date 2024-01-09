@@ -1,6 +1,6 @@
 # Installation
 ## 1. Clone the repository
-`git clone https://github.com/daveebbelaar/langchain-experiments.git`
+`git clone https://github.com/MelvinPaulsam/Yt-Transcript.git`
 ## 2. Create a Python environment
 Python 3.6 or higher using venv or conda. Using venv:
 
